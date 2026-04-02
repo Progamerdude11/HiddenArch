@@ -1,4 +1,4 @@
-# arch-privacy-setup
+# HiddenArch - Setup
 
 A bash script that turns a fresh Arch install into something reasonably private and hardened. Routes everything through Tor, sets up a VeraCrypt hidden vault, locks down the kernel, spoofs your MAC on boot, and a bunch of other stuff. One script, one reboot.
 
